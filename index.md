@@ -1,8 +1,8 @@
 # Proyectos Ing. Computacion
 ## PAO 2-2021
 ### POO
-[App para concurso de mascotas](https://github.com/Nathscrespo/Proyecto-POO-parcial1-grupo8.git)
-#### Aplicación creada con Java y JavaFX.
+[App para concurso de mascotas](https://github.com/Nathscrespo/Proyecto-POO-parcial1-grupo8.git) 
+* Aplicación creada con Java y JavaFX.
 ## PAO 1-2022
 ### Estructuras de Datos
 * Parcial 1 - 
