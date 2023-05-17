@@ -1,16 +1,18 @@
-# Proyectos Ing. Computacion
+# Repositorios de proyectos de Ingeniería en Computación
+Mi nombre es Johnny Santiago Rodriguez Salinas, soy estudiante universitario y he aquí muestro a los interesados algunos proyectos de programación que he realizado en colaboración de los cursos de las materias que se designan a continuacion. 
 ## PAO 2-2021
-### POO
-[App para concurso de mascotas](https://github.com/Nathscrespo/Proyecto-POO-parcial1-grupo8.git) 
-* Aplicación creada con Java y JavaFX.
+### Programación Orientada a Objetos
+[App para concurso de mascotas](https://github.com/Nathscrespo/Proyecto-POO-parcial1-grupo8.git)  
+* Aplicación creada con Java y JavaFX. 
 ## PAO 1-2022
 ### Estructuras de Datos
-* Parcial 1 - 
-[Organizador de fotos](https://github.com/santi0ne/ProyectoEDD.git)
-#### Lenguaje/Recursos: Java, JavaFX
-#### Descripción extra: Aplicación de ArrayLists y LinkedLists Doblemente enlazadas y circulares.
-* Parcial 2 - 
-[Juego Adivina el animal](https://github.com/santi0ne/ProyectoJuegoIIP.git)
+[Organizador de fotos](https://github.com/santi0ne/ProyectoEDD.git)  
+* __Lenguaje/Recursos:__ Java, JavaFX.  
+* __Descripción extra:__ Aplicación de ArrayLists y LinkedLists doblemente enlazadas y circulares.  
+
+[Juego Adivina el animal](https://github.com/santi0ne/ProyectoJuegoIIP.git)  
+* __Lenguaje/Recursos:__ Java, JavaFX.  
+* __Descripcion extra:__ Juego implementado con arboles binarios de decisión.
 ## PAO 2-2022
 ### Diseño de Software
 * [Programación orientada a Aspectos AOP](https://github.com/gjareval/G02-AOP.git)
